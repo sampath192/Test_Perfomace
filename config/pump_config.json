@@ -1,0 +1,7 @@
+{
+    "broker": "localhost",
+    "port": 1883,
+    "topic": "pump/dose",
+    "interval": 1.0,
+    "duration": 60.0
+  }

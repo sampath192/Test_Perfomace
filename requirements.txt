@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scipy
+openai
+langchain
+langchain-community
+matplotlib
+paho-mqtt
+faker
+pytest
+locust
